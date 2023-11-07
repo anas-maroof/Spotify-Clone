@@ -4,7 +4,7 @@ Certainly, here's a description and README for your Spotify clone project:
 
 **Project Description:**
 
-This project is a simplified Spotify clone created using HTML and CSS. It's a personal music collection containing the my top 10 favorite songs. Users can play any of the songs, view song details, and control playback with options to play, pause, and skip forward or backward using a seek bar. It offers a straightforward and user-friendly interface for enjoying music, showcasing the top picks of the creator.
+This project is a simplified Spotify clone created using HTML and CSS and JavaScript. It's a personal music collection containing the my top 10 favorite songs. Users can play any of the songs, view song details, and control playback with options to play, pause, and skip forward or backward using a seek bar. It offers a straightforward and user-friendly interface for enjoying music, showcasing the top picks of the creator.
 
 ---
 
